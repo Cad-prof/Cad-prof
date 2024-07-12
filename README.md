@@ -1,4 +1,4 @@
-# 👨‍💻 Edu_Gmz (professor_cad) 🐱‍💻🐱‍👤
+# 👨‍💻 Edu_Gmz (professor_cad) 🐱‍👤
 
 **`Cyber Craftsman (Developer/EthHack-enthousiast)`**
 
