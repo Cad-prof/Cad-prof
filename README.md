@@ -1,6 +1,6 @@
 # 👨‍💻 Edu_Gmz (professor_cad) 🐱‍👤
 
-**`Cyber Craftsman (Developer/EthHack-enthousiast)`**
+**`Cyber Craftsman (Junior-Fullstack-Developer/3th!c@lH@ck!ng-enthousiast)`**
 
 I'm an independent full-stack developer ...
 <!--
