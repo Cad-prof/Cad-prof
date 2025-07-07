@@ -1,4 +1,4 @@
-# 👨‍💻 Edu_Gmz (professor_cad) 🐱‍👤
+# 👨‍💻 Edu
 
 **`Cyber Craftsman (Junior-Fullstack-Developer/3th!c@lH@ck!ng-enthousiast)`**
 
